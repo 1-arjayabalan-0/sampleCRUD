@@ -8,6 +8,6 @@ public class SampleController {
 	
 	@GetMapping
 	public String getSample() {
-		return "Spring Boot";
+		return "Spring Boot Running...";
 	}
 }
